@@ -2,7 +2,8 @@
 
 ## 프로젝트 소개
  Magazine B라는 웹 사이트를 클론코딩하는 프로젝트.
- 프로젝트 배포:http://jixianmin.s3-website.ap-northeast-2.amazonaws.com/
+ 
+ - 프로젝트 배포:http://jixianmin.s3-website.ap-northeast-2.amazonaws.com/
  
  - Magazine B 웹사이트에 대한 소개
  세계 최초 브랜드 다큐맨터리 매거진이고 전 세계의 균형 잡힌 브랜드를 한 호에 하나씩 소개하는 광고 없는 월간지입니다. 
